@@ -17,4 +17,4 @@ The main purpose of this elisp is to install EMMS inside Spacemacs.
 * 3. Contact
 
 The author is Michael Englehorn (michael@englehorn.com)
-Feel free to email me or send me a mention on twitter ([[https://twitter.com/#!/K0HAX][@K0HAX])
+Feel free to email me or send me a mention on twitter ([[https://twitter.com/#!/K0HAX][@K0HAX]])
