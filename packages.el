@@ -3,7 +3,7 @@
 ;; Copyright (c) 2012-2016 Sylvain Benner & Contributors
 ;;
 ;; Author: Michael Englehorn <michael@englehorn.com>
-;; URL: https://github.com/syl20bnr/spacemacs
+;; URL: https://github.com/K0HAX/spacemacs-emms
 ;;
 ;; This file is not part of GNU Emacs.
 ;;
