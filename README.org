@@ -1,0 +1,20 @@
+#+TITLE:    README for spacemacs-emms
+#+AUTHOR:   Michael Englehorn
+#+EMAIL:    michael@englehorn.com
+#+DATE:     2016-04-16
+#+UPDATE:   03:39:00
+#+STARTUP:  CONTENT
+
+* 1. What's this?
+The main purpose of this elisp is to install EMMS inside Spacemacs.
+
+* 2. Install
+
+1. Put this elisp into ~/.emacs.d/private/emms
+2. Add emms to your .spacemacs file under dotspacemacs-configuration-layers
+3. (Re)start Emacs!
+
+* 3. Contact
+
+The author is Michael Englehorn (michael@englehorn.com)
+Feel free to email me or send me a mention on twitter ([[https://twitter.com/#!/K0HAX][@K0HAX])
